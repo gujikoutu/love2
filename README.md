@@ -72,7 +72,7 @@
 <body>
     <div class="love-box">
         <!-- 核心图片 -->
-        <img src="muye-phono.jpg" 
+        <img src="muye-photo.jpg" 
              alt="牧野的珍贵照片"
              class="love-photo"
              onerror="this.style.display='none'"> <!-- 图片加载失败时自动隐藏 -->
